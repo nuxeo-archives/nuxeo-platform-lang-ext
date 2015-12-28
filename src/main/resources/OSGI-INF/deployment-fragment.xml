@@ -23,6 +23,7 @@
       <supported-locale>ru</supported-locale>
       <supported-locale>sr</supported-locale>
       <supported-locale>vn</supported-locale>
+      <supported-locale>sq_AL</supported-locale>
     </locale-config>
   </extension>
 

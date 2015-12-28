@@ -91,6 +91,7 @@
     	<include name="messages_de.properties"/>
     	<include name="messages_es.properties"/>
       	<include name="messages_it.properties"/>
+      	<include name="messages_sq.properties"/>
 		<include name="messages_ja.properties"/>
 		<include name="messages_pt_BR.properties"/>
 	    <include name="messages_ru.properties"/>
